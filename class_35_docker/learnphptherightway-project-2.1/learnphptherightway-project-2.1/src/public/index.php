@@ -1,5 +1,11 @@
 <?php
 
-declare(strict_types = 1);
+// declare(strict_types = 1);
 
-phpinfo();
+// // phpinfo();
+
+// echo '<pre>';
+// print_r($_SERVER);
+// echo '</pre>';
+
+
